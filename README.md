@@ -1,16 +1,22 @@
-## Hi there 👋
+# PPC Marketing Pakistan
 
-<!--
-**outreachppcmarketing-ops/outreachppcmarketing-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PPC Marketing Pakistan provides professional Google Ads, PPC marketing, lead generation, and digital marketing services for businesses in Pakistan.
 
-Here are some ideas to get you started:
+🌐 Website: [PPC Marketing Pakistan](https://ppcmarketing.com.pk/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Services
+
+* Google Ads Management
+* PPC Marketing
+* Lead Generation
+* Search Ads
+* Display Ads
+* YouTube Ads
+* Meta Ads
+* Digital Marketing Strategy
+
+## Contact
+
+Visit our website to learn more:
+
+https://ppcmarketing.com.pk/
